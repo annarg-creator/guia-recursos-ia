@@ -11,3 +11,6 @@
 - No compartir informació confidencial. 
 - Revisar sempre les respostes de la IA. 
 - Escriure instruccions clares.
+
+## Creació de presentacions 
+- Canva: permet crear presentacions i dissenys amb ajuda de la IA.
